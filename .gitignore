@@ -1,2 +1,3 @@
-api/appsettings.json
-api/appsettings.Development.json
+appsettings.json
+appsettings.Development.jsonobj
+bin
